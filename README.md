@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently working on IRTUNEL
-- 🌱 I’m currently learning stable programming
+- 🔭 I’m currently working on Freelance Projects
+- 🌱 I’m currently learning Ai 
 
-Link to [helloWorld](http://hosseinsamadi.eu5.org/)
+Link to [Resume](https://hosseinsam.github.io/)
 <!--
 **hosseinsam/hosseinsam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
