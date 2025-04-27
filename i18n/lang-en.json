@@ -1,0 +1,96 @@
+{
+    "navbar": {
+        "home": "Home",
+        "skills": "Skills",
+        "portfolio": "Portfolio",
+        "offers": "Offers",
+        "reviews": "Reviews",
+        "contact": "Contact",
+        "language": "Language"
+    },
+
+    "home": {
+        "heading": "software problem solver",
+        "subtitle": "I'm Hossein Samadi wick | Software Engineer",
+        "short-descrip": "Specialized in full-stack development, UX/UI design, and innovative AR solutions.",
+        "hire-btn": "Hire me",
+        "contact-btn": "Contact me"
+    },
+
+    "skills": {
+        "heading": "02. Skills",
+        "section-descrip": "Depends on projects, I have the experience of using the following tools to implement software design.",
+        "sub-section-title": "Hobbies & Certificates",
+        "sub-section-title1": "Recently used :",
+        "sub-section-title2": "used in the past :"
+    },
+
+    "portfolio": {
+        "heading": "03. Portfolio",
+        "preview": "Live Preview",
+        "pt1":"smart.nobka",
+        "pp1":"marketing plan to sell iot devices of nobka holding\n- design UX and UI of website\n- implement responsive eCommerce website - design product with collect specs and design attractive image template\n- social media and marketplaces branding planning \n- ads campaign planning with design attractive gif banners and implementing action base landing page \n- implement SEO on  each page using google valid product schemas \n- enables all SEO tools of Google on website\n- record and edit unboxing products videos \n- using web AR to marketing products with detecting target image on web and show unbox video on real world",
+        "offline-preview":""
+    },
+
+    "offers": {
+        "heading": "04. Offers",
+        "offer-item-title-two": "Show your works with this stannig template [Free Download",
+        "offer-type-one": "Special offer",
+        "offer-type-two": "Freebie"
+    },
+
+    "reviews": {
+
+        "heading": "05. Reviews",
+        "rating": "Rating",
+        "next": "Next Review",
+        "position": "Client"
+
+    },
+    
+    "contact": {
+
+        "heading": "06. Contact",
+        "section-descrip": " If you have any suggestion, project or even you want to say Hello. please fill out the form below and I will reply you shortly.",
+
+        "form": {
+            "name": "Name",
+            "email": "Email",
+            "phone": "Phone",
+            "subject": "Subject",
+            "message": "Message"
+        },
+        
+        "errors": {
+
+            "general" : "* Can't be empty & Special characters not allowed",
+            "phone": "* It should be a vaild phone number",
+            "email": "* Can't be empty & It should be a vaild address e-mail",
+            "emptyMsg": "* The message field could not be empty",
+            "shortMsg": "* The message field could not be too short text",
+            "specialChars": "* special characters not allowed",
+            "submitError": "Oops! An error occurred and your message could not be sent. please try again"
+            
+        },
+        "successMsg": "Thank you for contacting me, your message was sent successfully I will contact you as soon as possible.",
+
+        "optional": "Optional",
+        "send-btn": "Send Message"
+        
+    },
+
+    "error": {
+        "heading": "Error 404",
+        "home-btn": "Home",
+        "section-title": "Ops! This page not found"
+    },
+
+    "sidebar": {
+        "name": "Hossein Samadi",
+        "position": "Full-stack developer",
+        "bio": "A software engineer with 3 years of experience. I graduated from Zanjan University and have been working with technologies like REACT, C#, MySQL, MongoDB, TypeScript, AR.js, HTML, and CSS. I'm passionate about creating innovative and user-friendly software solutions.",
+        "contact-heading": "Keep in touch",
+        "download-resume-btn": "Download my resume"
+    }
+}

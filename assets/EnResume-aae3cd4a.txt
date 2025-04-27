@@ -1,0 +1,63 @@
+University Portfolio        [2017-2022]
+    - Implementation of commerce application [flutter - dart - firebase]
+    - Recognition of street signs using the YOLO algorithm
+    - Market forecasting with artificial intelligence and LSTM algorithm
+    - Implementation of buying and selling with auction core system [MERN Application]
+
+
+Last three years i worked in nobka As Software Engineer        [2021 - now]
+NOBKA is holding that works on variety of Elec projects ... 
+   • VOIP SYSTEM: this project works on technology that allows you to make voice calls using a broadband Internet connection instead of a regular (or analog) phone line. that need admin panel to config.
+    - design UI of admin panel
+    - implement admin dashboard using pure HTML, CSS and JS
+
+   • LTE MODEM: this project have verity of features that make this product specific
+    - implement responsive admin dashboard using react redux and axios
+    - specific commons components like Radio, Multiselect, Input, Menu Button, loading and etc.
+    - handle inputs using redux-form and hooks
+    - implement each page of project with their sub Pages
+    - write apiCalls of each feature in separate files to found and change easily
+    - define separate reducers to handle loading and other main process that will change.
+    - using git to control project version
+    - commenting on all components
+
+   • Messenger Chrome Extension: messenger application with end‑to‑end encryption
+    - design UI and UX of messenger application
+    - implement frontend of messenger using typescript react and chrome extension Manifest V3
+    - works on SDK that validate users key changings and other actions using backend apis
+
+   • AR: research on AR usage on web
+    - try some marketing ideas that works on all devices using ARJS that shows video with control on specific target
+    - using Vuforia and unity to implement multi target android app on specific scene
+    - make product objects with .glb formats
+
+   • FileManager: write fully functional app that communicate with encrypted serialPort
+    - help to design commands like copy, encrypt, delete and etc. in VHDL development
+    - parse serial ports output text to show dirs and files using C#
+    - works with bytes to read files (to create in windows) and writes files (on device) using serial port instance.
+    - implements specific features like files compression , key Burning and etc.
+    - find out use case of application and design UX.
+    - implement user-friendly UI with all hotkeys that needed to be complete file manager
+
+   • SPARK: is product that manage parking lots of organization or departments using MQTT
+    - categorizing user privileges and extracting each users usecases
+    - using Microsoft Visio to design app lifecycle diagram
+    - design UX depends on each user permission
+
+   • smart.nobka : smart home shop to sell iot devices of nobka holding
+    - design UX and UI of website
+    - implement responsive eCommerce website - design product with collect specs and design attractive image template
+    - social media and marketplaces branding planning
+    - ads campaign planning with design attractive gif banners and implementing action base landing page
+    - implement SEO on  each page using google valid product schemas
+    - enables all SEO tools of Google on website
+    - record and edit unboxing products videos
+    - using web AR to marketing products with detecting target image on web and show unbox video on real world
+
+   • titime:is attendance system with cross platform application that  verify employers Prescence and absence using Realtime location.
+    - design SEO base GUI of introduction site
+    - implement responsive customize site using WordPress
+    - write scenario and record tutorial video for user and admin panel separately
+    - extract app features and design site banners with personalized SVG vectors for each feature
+    - design superguide catalog banner and flayers for APPEX2024(specialized exhibition of application was held in Tehran).
+    - enables all SEO tools of Google on website
